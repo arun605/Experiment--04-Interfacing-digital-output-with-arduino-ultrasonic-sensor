@@ -77,5 +77,6 @@ void loop() { digitalWrite(trigpin,LOW); delay(20); digitalWrite(trigpin,HIGH); 
 			
 			
 
-RESULTS
+RESULTS:
+
 Thus the distance value is measured in"CM" using ultrasonic sensor
